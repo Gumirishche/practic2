@@ -13,4 +13,13 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <packaging>pom</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+    </dependencies>
 </project>

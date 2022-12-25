@@ -1,3 +1,5 @@
+package practic2;
+
 import java.sql.SQLException;
 import java.util.Scanner;
 

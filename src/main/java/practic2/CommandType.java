@@ -1,3 +1,5 @@
+package practic2;
+
 public enum CommandType {
     CREATE_SECOND,
     CREATE_FIRST,
