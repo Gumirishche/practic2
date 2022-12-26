@@ -39,7 +39,8 @@
 <a href="createSecond"> Create Second </a><br><br>
 <a href="deleteFirst"> Delete First </a><br><br>
 <a href="deleteSecond"> Delete Second </a><br><br>
-<a href="findFirst"> Find first </a><br><br>
+<a href="selectFirst"> Find First </a><br><br>
+<a href="selectSecond"> Find Second </a><br><br>
 </li>
 </body>
 </html>

@@ -9,6 +9,10 @@ public class Second {
         this.lastName = lastName;
     }
 
+    public Second() {
+
+    }
+
     public String getId() {
         return id;
     }
